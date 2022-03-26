@@ -1,6 +1,8 @@
 # Proyectos equipo V01
 
-👉 En este repositorio están los Proyectos equipo V01 tenemos los jupyer notebooks con los EDA y un informe de PowerBI en PDF y en .pbix 👈
+👉 En este repositorio están los Proyectos equipo V01 tenemos los jupyter notebooks con los EDA y un informe de PowerBI en PDF y en .pbix 👈
+
+👉 Utilizamos ETL para cargar las tablas, crear una base de datos y generar una vista en power bi 👈
 
  Gracias por visitar esperamos ganar, suerte para todos!
  # 😉
